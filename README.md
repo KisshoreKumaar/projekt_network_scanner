@@ -1,5 +1,5 @@
-pdst = IP of victim. (windows machine)
-hwdst = MAC address of victim. (windows machine)
+1. pdst = IP of victim. (windows machine) 
+2. hwdst = MAC address of victim. (windows machine)
 psrc = IP of router (default gateway)
 hwsrc = MAC address of source (kali linux)
 
