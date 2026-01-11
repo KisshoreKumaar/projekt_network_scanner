@@ -1,8 +1,8 @@
 1. pdst = IP of victim. (windows machine) 
 2. hwdst = MAC address of victim. (windows machine)
-psrc = IP of router (default gateway)
-hwsrc = MAC address of source (kali linux)
+3. psrc = IP of router (default gateway)
+4. hwsrc = MAC address of source (kali linux)
 
 libraries :
-scapy - used for network related projects to send and receive packets across environments.
-pyfiglet - this creates a banner onto the terminal.
+-- scapy - used for network related projects to send and receive packets across environments.
+-- pyfiglet - this creates a banner onto the terminal.
