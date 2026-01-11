@@ -4,5 +4,5 @@
 4. hwsrc = MAC address of source (kali linux)
 
 libraries :
--- scapy - used for network related projects to send and receive packets across environments.
--- pyfiglet - this creates a banner onto the terminal.
+1. scapy - used for network related projects to send and receive packets across environments.
+2. pyfiglet - this creates a banner onto the terminal.
